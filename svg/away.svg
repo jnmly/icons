@@ -1,0 +1,19 @@
+<svg
+  width="15"
+  height="14"
+  viewBox="0 0 15 14"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlnsXlink="http://www.w3.org/1999/xlink"
+>
+  <defs>
+    <circle id="path-1" cx="50.725" cy="102.019" r="7" />
+    <mask id="mask-2" x="0" y="0" width="14" height="14" fill="#fff">
+      <use xlinkHref="#path-1" />
+    </mask>
+  </defs>
+  <g id="Page-1" fill="none" fillRule="evenodd" strokeDasharray="2,2.400000095367432">
+    <g id="Artboard" transform="translate(-43 -95)" stroke="#F03D1D" strokeWidth="4">
+      <use id="Oval-Copy-13" mask="url(#mask-2)" xlinkHref="#path-1" />
+    </g>
+  </g>
+</svg>

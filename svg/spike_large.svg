@@ -1,0 +1,15 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="211"
+  height="213"
+  viewBox="0 0 211 213"
+  version="1.1"
+  style="maxWidth: width; maxHeight: width; height: 'auto'; marginLeft: '2px'"
+>
+  <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+    <path
+      d="M121.177,51.145 L182.433,0.266 L210.042,74.957 L179.216,66.697 L140.135,212.552 L-0.000,213.000 C-0.000,213.000 0.016,211.143 -0.000,184.000 C24.612,184.000 98.291,184.000 119.000,184.000 C129.480,143.716 152.002,59.405 152.002,59.405 L121.177,51.145 Z"
+      fill="#eb2e19"
+    />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+  <g id="Page-1" fill="none" fillRule="evenodd">
+    <g id="Group-3-Copy-4" transform="translate(-.613)">
+      <path
+        d="M14.6578173,0.000114851237 C14.6443173,3.8317976e-05 14.6308082,0 14.6172902,0 C10.751297,0 7.61729022,3.13400675 7.61729022,7 C7.61729022,10.8659932 10.751297,14 14.6172902,14 C14.6308082,14 14.6443173,13.9999617 14.6578173,13.9998851 L14.6578173,0.000114851237 Z"
+        id="Combined-Shape"
+        fill="#FFA500"
+        transform="matrix(-1 0 0 1 22.275 0)"
+      />
+      <circle id="Oval-Copy-10" stroke="#FFA500" cx="7.617" cy="7" r="6.5" />
+    </g>
+  </g>
+</svg>
